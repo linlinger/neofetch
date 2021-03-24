@@ -1,5 +1,6 @@
 # Maintainer: Morten Linderud <foxboron@archlinux.org>
 # Contributor: Dylan Araps <dylan.araps@gmail.com>
+# Modified by linlinger
 
 pkgname=neofetch-spanningtree
 pkgver=7.1.0
