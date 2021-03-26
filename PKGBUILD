@@ -10,6 +10,7 @@ arch=('any')
 url="https://github.com/linlinger/neofetch"
 license=('MIT')
 depends=('bash')
+conflict=('neofetch')
 makedepends=('git')
 backup=('etc/neofetch/config.conf')
 optdepends=(
